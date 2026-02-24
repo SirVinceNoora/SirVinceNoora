@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/1761276661608.jpg" alt="Header" width="100%" />
+</p>
 
-<!--
-**SirVinceNoora/SirVinceNoora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SirVinceNoora
 
-Here are some ideas to get you started:
+Developer focused on building real systems —  
+Web, IoT, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Focus
+
+- Smart web-based systems  
+- ESP32 & hardware integration  
+- Offline-first applications  
+- Real-time communication (WebSockets)
+
+---
+
+## Stack
+
+Flutter • React • Laravel • ESP32 • Arduino • HTML • CSS • JavaScript
+
+---
+
+## Philosophy
+
+Build clean.  
+Build practical.  
+Build things that actually work.
+
+---
+
+## Contact
+
+GitHub: https://github.com/SirVinceNoora
