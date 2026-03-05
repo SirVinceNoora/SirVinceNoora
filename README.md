@@ -28,7 +28,7 @@
 <hr>
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&duration=4000&lines=Hello,+I'm+VCODERN!;Passionate+Developer+and+Maker;Exploring+new+Microcontrollers;Making+Innovative+Web+Projects" alt="Animated Header">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&duration=4000&lines=Hello,+I'm+SirVinceNoora!;Passionate+Developer+and+Maker;Exploring+new+Microcontrollers;Making+Innovative+Web+Projects" alt="Animated Header">
 </h1>
 
 <p align="center" style="font-size: 18px;">
