@@ -19,7 +19,7 @@
   margin: 30px auto;
   animation: fadeIn 3s ease-in-out infinite alternate;
 ">
-  <em>"BYTEFORGE is my platform name, it is my identity MY BRAND,<br>I FORGE APPS, GAMES, WEBSITE."</em>
+  <em>"BYTEFORGE is my platform name, it is my identity MY BRAND,<br>I FORGE APPS, GAMES, WEBSITES."</em>
 </div>
 
 
